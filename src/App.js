@@ -14,7 +14,7 @@ const App = () => {
   useEffect(() => {
     AOS.init();
   }, []);
-  return <div>
+  return <div className='overflow-hidden'>
     <NavBar />
     <Home />
     <About />
