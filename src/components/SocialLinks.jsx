@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: 'https://linkedin.com',
+      href: 'www.linkedin.com/in/james-solomon-b40493201',
       style: 'rounded-tr-md',
     },
     {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           Github <FaGithub size={30} />
         </>
       ),
-      href: 'https://github.com',
+      href: 'https://github.com/ejioforJs',
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const SocialLinks = () => {
           Facebook <FaFacebook size={30} />
         </>
       ),
-      href: 'https://facebook.com',
+      href: 'https://www.facebook.com/james.solomon.94695',
     },
     {
       id: 4,

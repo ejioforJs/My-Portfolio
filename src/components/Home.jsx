@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-full w-full bg-red-500 bg-gradient-to-b from-black via-black to-gray-800"
+      className="h-full w-full bg-red-500 bg-gradient-to-b from-black via-black to-gray-800 z-10"
     >
       <div className="max-w-screen-lg flex-col-reverse gap-y-20 mx-auto flex items-center justify-center h-full px-4 md:flex-row">
         <div 
@@ -18,8 +18,8 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 3 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
+            I have 3 years of experience building and designing software.
+            Currently, I love to work on web applications using technologies like
             React, Tailwind, JavaScript and Node.
           </p>
 
@@ -45,7 +45,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full mt-24"
+            className="rounded-2xl mx-auto w-full mt-24"
           />
         </div>
       </div>
