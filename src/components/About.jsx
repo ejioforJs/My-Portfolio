@@ -20,7 +20,7 @@ const About = () => {
         data-aos="fade-up"
         data-aos-duration="1500"
         className="text-xl">
-          My name is Omonu Johnson and I am a full-stack software developer who specializes in creating dynamic and beautiful web pages. I have been coding for the past 3 years, and have been loving every minute of it. I am currently an electrical engineering student of the prestigious University of Nigeria Nsukka(UNN) who loves solving technical and logical problems and generally I am an overall thinker. You can check out some of my works and skills below.
+          My name is Solomon James and I am a full-stack software developer who specializes in creating dynamic and beautiful web pages. I have been coding for the past 3 years, and have been loving every minute of it. I am currently an electrical engineering student of the prestigious University of Nigeria Nsukka(UNN) who loves solving technical and logical problems and generally I am an overall thinker. You can check out some of my works and skills below.
         </p>
       </div>
     </div>
